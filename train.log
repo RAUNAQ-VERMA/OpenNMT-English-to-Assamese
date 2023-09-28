@@ -1,0 +1,14 @@
+[2023-09-24 16:46:02,688 WARNING] Corpus corpus_1's weight should be given. We default it to 1 for you.
+[2023-09-24 16:46:02,688 INFO] Parsed 2 corpora from -data.
+[2023-09-24 16:46:02,688 INFO] Get special vocabs from Transforms: {'src': [], 'tgt': []}.
+[2023-09-24 16:46:02,808 INFO] The decoder start token is: <s>
+[2023-09-24 16:46:02,808 INFO] Building model...
+[2023-09-24 16:46:03,506 INFO] Switching model to float32 for amp/apex_amp
+[2023-09-24 16:46:03,510 INFO] Non quantized layer compute is fp16
+[2023-09-24 16:47:45,811 WARNING] Corpus corpus_1's weight should be given. We default it to 1 for you.
+[2023-09-24 16:47:45,811 INFO] Parsed 2 corpora from -data.
+[2023-09-24 16:47:45,811 INFO] Get special vocabs from Transforms: {'src': [], 'tgt': []}.
+[2023-09-24 16:47:45,889 INFO] The decoder start token is: <s>
+[2023-09-24 16:47:45,889 INFO] Building model...
+[2023-09-24 16:47:46,452 INFO] Switching model to float32 for amp/apex_amp
+[2023-09-24 16:47:46,452 INFO] Non quantized layer compute is fp16
